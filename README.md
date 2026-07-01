@@ -1,2 +1,17 @@
-# Prompt-Engineering-Portfolio
-A collection of professional AI prompts for PowerShell, SQL, Automation, Documentation, and Business Analysis.
+# Prompt Engineering Portfolio
+
+Welcome to my Prompt Engineering Portfolio.
+
+## Categories
+
+- PowerShell
+- SQL
+- Email Generation
+- Technical Documentation
+- Business Analysis
+- Research
+- Resume Review
+
+## Goal
+
+This repository contains real-world prompts that I've created, tested, and improved for practical IT and automation tasks.
